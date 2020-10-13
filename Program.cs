@@ -4,6 +4,10 @@ namespace GitTutorial2
 {
     class Program
     {
+        static void GoodFunction()
+        {
+        }
+        
         static void Main(string[] args)
         {
             string msg2 = "this is from test branch";
