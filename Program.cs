@@ -11,6 +11,7 @@ namespace GitTutorial2
             Console.WriteLine(msg);
 
             int a;
+            int b;
         }
     }
 }
