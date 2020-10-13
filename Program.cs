@@ -10,8 +10,8 @@ namespace GitTutorial2
             string msg = "Hello Adam and James and World!";
             Console.WriteLine(msg);
 
-            int b = 5;
-            int d = 10;
+            int b;
+            int d;
         }
     }
 }
