@@ -12,6 +12,7 @@ namespace GitTutorial2
 
             int a;
             int b;
+            int c;
         }
     }
 }
