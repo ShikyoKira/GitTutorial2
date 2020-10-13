@@ -6,6 +6,7 @@ namespace GitTutorial2
     {
         static void Main(string[] args)
         {
+            string msg2 = "this is from test branch";
             string msg = "Hello Adam and James and World!";
             Console.WriteLine(msg);
         }
